@@ -3,6 +3,13 @@
 
 The System will check whether the person is sitted on the seat or not if person is detected then it will check whether the temperature nobe is on or not and after checking both the condition if both are true then and only then it will turn on the heater and according to perticular value it will create temperature.   
 
+# seat_heater
+|[code Quality score]|[code Grade]|[codacy Badge] | [Git Inspector]
+|-----|------|------|--------|
+|![Code Quality](https://www.code-inspector.com/project/28706/score/svg) | ![Code Grade](https://www.code-inspector.com/project/28706/status/svg) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/be9b5b7409e44766a72841a1168bb6b5)](https://www.codacy.com/gh/mohitraopathru/stepin_seat_heater/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mohitraopathru/stepin_seat_heater&amp;utm_campaign=Badge_Grade)| [![Git Inspector](https://github.com/mohitraopathru/stepin_seat_heater/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/mohitraopathru/stepin_seat_heater/actions/workflows/Git_Inspector.yml)
+
+
+
 # Folder Structure
 
 |Folder        |Description |
@@ -36,10 +43,7 @@ System can be used at low Temperature.
 
 This project can perform various opration at the same and make user's task smooth and effortless.
 
-# auto_seat_heater
-|[code Quality score]|[code Grade]|[codacy Badge]
-|-----|------|------|
-|![Code Quality](https://www.code-inspector.com/project/28706/score/svg) | ![Code Grade](https://www.code-inspector.com/project/28706/status/svg) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/be9b5b7409e44766a72841a1168bb6b5)](https://www.codacy.com/gh/mohitraopathru/stepin_seat_heater/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mohitraopathru/stepin_seat_heater&amp;utm_campaign=Badge_Grade)|
+
 
 
 # Challenges Faced and How Was It Overcome
