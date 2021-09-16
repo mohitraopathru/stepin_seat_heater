@@ -11,13 +11,12 @@ The System will check whether the person is sitted on the seat or not if person 
 
 
 # Folder Structure
-
 |Folder        |Description |
 |-------------|-----------|
-|`simulation`|simulation files|
-|`Documentation`|Makefile and Doxyfile|
-|`inc`|Header files|
-|`src`|.c files|
+|1.`Requirement`|System detailing requirements|
+|2.`Architeture`|Behaviour,Structure,Flowchart|
+|3.`Implementation`|All code and documentation|
+|4.`TestPlanAndOutput`|Output of Code|
 
 
 # 4W&#39;s and 1&#39;H
